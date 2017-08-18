@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.jumbotron{
+    background: linear-gradient(to right, #66ff33 , yellow);
+    border-radius: 0px!important;
+    margin-top: -20px;
+}
+
+.searchForm{
+    height: 80px;
+    font-size: 50px;
+}
+
+.searchBtn{
+    height: 80px;
+    width: 200px;
+}
+
+.btn {
+    margin-left: 5px;
+}
+
+.sortBtn{
+  margin-right: 20px;
+}
+
+.active{
+  background-color: #66ff33;
+  padding: 18px 10px 18px 10px;
+}
