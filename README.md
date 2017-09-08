@@ -1,4 +1,5 @@
 Live demo: https://kaloraat.github.io/udemy-react-newsapp/
+<br />
 Complete Course: <a href="https://www.udemy.com/react-es6-api/">React Fundamentals ES6 and API - Build a Rock Solid News App</a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
